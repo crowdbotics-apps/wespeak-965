@@ -1,0 +1,3 @@
+rootProject.name = 'wespeak_965'
+
+include ':app'
